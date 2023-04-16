@@ -10,21 +10,21 @@ footer {
 }
 
 #letterhead {
-    border-style: solid;
-    border-width: 0.3em;
-    border-color: black;
-    padding: 2em;
-    margin: 2em;
-}
-
-#letterhead-text {
-    font-size: 7em;
-    padding-left: 2em;
-    padding-right: 2em;
-    white-space: nowrap;
     font-family: 'Bodoni Moda', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 1rem;
+    margin-top: 2rem;
 }
 
 .letterbody {
     font-family: 'Bodoni Moda', serif;
 }
+
+@media (max-width: 768px) {
+    #letterhead-text {
+      font-size: 4em;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+  }
