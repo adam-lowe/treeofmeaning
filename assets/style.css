@@ -18,6 +18,11 @@ footer {
     border: 0.2rem solid black;
 }
 
+#title-img {
+    border: 0.2rem solid black;
+    padding: 0;
+}
+
 .letterbody {
     font-family: 'Bodoni Moda', serif;
 }
