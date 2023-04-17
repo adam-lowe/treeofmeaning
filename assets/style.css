@@ -20,11 +20,3 @@ footer {
 .letterbody {
     font-family: 'Bodoni Moda', serif;
 }
-
-@media (max-width: 768px) {
-    #letterhead-text {
-      font-size: 4em;
-      padding-left: 0.5em;
-      padding-right: 0.5em;
-    }
-  }
