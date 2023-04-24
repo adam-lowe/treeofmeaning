@@ -26,10 +26,3 @@ footer {
 .letterbody {
     font-family: 'Bodoni Moda', serif;
 }
-
-@media (max-width: 768px) {
-    .img-fluid {
-      min-width: 300px;
-      width: 100%;
-    }
-  }
