@@ -27,3 +27,7 @@ footer {
 .letterbody {
     font-family: 'Bodoni Moda', serif;
 }
+
+.navbar-nav .nav-link {
+    color: #6fa1c9;
+  }
