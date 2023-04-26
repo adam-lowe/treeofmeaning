@@ -1,6 +1,7 @@
 body {
     background-color: #000331;
     color: #6fa1c9;
+    font-weight: bold;
 }
 
 footer {
@@ -12,7 +13,7 @@ footer {
 #letterhead {
     font-family: 'Bodoni Moda', serif;
     font-size: 5rem;
-    font-weight: bold;
+    font-weight: bolder;
     padding: 1rem;
     border: 0.2rem solid #a9ca4d;
     margin: 0;
