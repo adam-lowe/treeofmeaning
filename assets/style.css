@@ -14,12 +14,12 @@ footer {
     font-size: 5rem;
     font-weight: bold;
     padding: 1rem;
-    border: 0.2rem solid black;
+    border: 0.2rem solid #a9ca4d;
     margin: 0;
 }
 
 #title-img {
-    border: 0.2rem solid black;
+    border: 0.2rem solid #a9ca4d;
     padding: 0;
 }
 
